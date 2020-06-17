@@ -1,4 +1,4 @@
-# League of Legend Guide
+## League of Legend Guide
 
 A new Flutter application.
 
