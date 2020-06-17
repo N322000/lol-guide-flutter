@@ -13,4 +13,5 @@ class STRINGS{
   static const String champions = "Champions";
   static const String refresh_complete = "Refresh complete";
   static const String retry = "Retry";
+  static const String pls_try_again = "Please try again";
 }
