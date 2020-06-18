@@ -16,4 +16,5 @@ class STRINGS{
   static const String pls_try_again = "Please try again";
   static const String something_went_wrong = "Something went wrong!";
   static const String server_error = "Server Error!";
+  static const String loading = "Loading.....";
 }
